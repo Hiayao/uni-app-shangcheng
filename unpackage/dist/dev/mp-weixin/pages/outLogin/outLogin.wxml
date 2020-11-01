@@ -1,0 +1,1 @@
+<view class="data-v-1f3d6e34"><u-button vue-id="1bc854e0-1" type="error" data-event-opts="{{[['^click',[['outLogin']]]]}}" bind:click="__e" class="data-v-1f3d6e34" bind:__l="__l" vue-slots="{{['default']}}">退出登录</u-button></view>

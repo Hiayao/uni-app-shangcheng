@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#B4282D",
+  "usingComponents": {
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

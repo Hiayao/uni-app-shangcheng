@@ -1,0 +1,13 @@
+{
+  "navigationBarBackgroundColor": "#B4282D",
+  "usingComponents": {
+    "home-location": "/components/home/home-location/home-location",
+    "home-swiper": "/components/home/home-swiper/home-swiper",
+    "home-dav": "/components/home/home-dav/home-dav",
+    "home-brand": "/components/home/home-brand/home-brand",
+    "home-new": "/components/home/home-new/home-new",
+    "home-hot": "/components/home/home-hot/home-hot",
+    "home-topic": "/components/home/home-topic/home-topic",
+    "home-sort": "/components/home/home-sort/home-sort"
+  }
+}

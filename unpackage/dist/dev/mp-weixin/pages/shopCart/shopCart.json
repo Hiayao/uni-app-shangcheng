@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#B4282D",
+  "usingComponents": {
+    "u-swipe-action": "/node-modules/uview-ui/components/u-swipe-action/u-swipe-action",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal"
+  }
+}

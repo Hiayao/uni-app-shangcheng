@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/special/special",
+    "pages/sort/sort",
+    "pages/shopCart/shopCart",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/specialDetail/specialDetail",
+    "pages/home/homeSort",
+    "pages/goodsDetail/goodsDetail",
+    "pages/NewandHot/NewandHot",
+    "pages/buyGoods/buyGoods",
+    "pages/collect/collect",
+    "pages/address/address",
+    "pages/addressList/addressList",
+    "pages/map/map",
+    "pages/outLogin/outLogin"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "严选商城",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#FF0000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/image/home.png",
+        "selectedIconPath": "static/image/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/special/special",
+        "iconPath": "static/image/special.png",
+        "selectedIconPath": "static/image/special-active.png",
+        "text": "专题"
+      },
+      {
+        "pagePath": "pages/sort/sort",
+        "iconPath": "static/image/sort.png",
+        "selectedIconPath": "static/image/sort-active.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/shopCart/shopCart",
+        "iconPath": "static/image/shopcart.png",
+        "selectedIconPath": "static/image/shop-active.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/image/my.png",
+        "selectedIconPath": "static/image/my-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

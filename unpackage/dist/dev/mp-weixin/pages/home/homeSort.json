@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#B4282D",
+  "usingComponents": {
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs"
+  }
+}

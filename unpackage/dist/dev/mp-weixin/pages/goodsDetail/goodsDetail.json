@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#B4282D",
+  "usingComponents": {
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-parse": "/node-modules/uview-ui/components/u-parse/u-parse",
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}
